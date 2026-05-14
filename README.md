@@ -14,6 +14,6 @@ On how to submit a book for review or a review for publication, see instructions
 
 BRB is no-fees open-access. Books are reviewed and reviews are published based on their originality, clarity, accessibility, contribution to the field of Bitcoin Studies, relevance to Bitcoin in real time, and interest to BRB’s readership.
 
-Authors maintain rights to their work per CC (creative commons) license.
+Authors maintain rights to their work per Creative Commons Attribution (CC BY) license.
 
 BRB is sustained by community donations.
