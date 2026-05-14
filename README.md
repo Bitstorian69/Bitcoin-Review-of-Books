@@ -4,7 +4,7 @@ The Bitcoin Review of Books repository
 https://bitcoinbooks.review/ 
 Library of Congress ISSN 3068-7780
 
-The Bitcoin Review of Books (BRB) is the free, open-source space for the review of books whose primary topic is Bitcoin.
+The Bitcoin Review of Books (BRB) is the free, open-access space for the review of books whose primary topic is Bitcoin.
 
 The definition of “Bitcoin book” continues to evolve as Bitcoin Studies does likewise. As such, authors and publishers are welcome to submit any book related to Bitcoin to BRB for consideration.
 
